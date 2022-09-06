@@ -1,0 +1,5 @@
+#!/bin/bash
+find . -type f -name *.js* -delete >> 10-no_more_js
+bash
+echo find . -type f -name *.js* -delete
+find . -type f -name "*.js" -delete
